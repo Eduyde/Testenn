@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.meubrowser"
+    namespace = "com.seunome.navegador"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.meubrowser"
+        applicationId = "com.seunome.navegador"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
